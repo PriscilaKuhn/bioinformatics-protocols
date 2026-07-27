@@ -1,4 +1,4 @@
-# Bioinformatics Protocols
+# Protocolos bioinformáticos 
 
 Una colección de protocolos bioinformáticos reproducibles desarrollados para el análisis de datos genéticos y genómicos en RStudio.
 
@@ -15,10 +15,10 @@ Una colección de protocolos bioinformáticos reproducibles desarrollados para e
 
 ## Estructura del repositorio
 ```
-protocolos/
+protocols/
 scripts/
-datos/
-documento/
+date/
+document/
 ```
 
 ## Autor
