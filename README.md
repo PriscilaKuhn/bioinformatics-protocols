@@ -18,7 +18,7 @@ Una colección de protocolos bioinformáticos reproducibles desarrollados para e
 protocols/
 scripts/
 date/
-document/
+docs/
 ```
 
 ## Autor
