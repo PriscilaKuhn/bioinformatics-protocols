@@ -1,5 +1,4 @@
-# Protocolos bioinformáticos 
-
+# Protocolos bioinformático 
 Una colección de protocolos bioinformáticos reproducibles desarrollados para el análisis de datos genéticos y genómicos en RStudio.
 
 
